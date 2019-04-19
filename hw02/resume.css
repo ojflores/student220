@@ -1,0 +1,27 @@
+.left {
+    float: left;
+    width: 200px;
+}
+
+.right {
+    float: right;
+    width: 675px;
+    
+}
+
+.list {
+    float: right;
+    width: 700px;
+}
+
+aside {
+    font-family: "Times New Roman", Times, serif;
+}
+
+a {
+    color: purple;
+}
+
+ul {
+    list-style-type: disc;
+}

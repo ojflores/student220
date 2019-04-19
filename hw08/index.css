@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#player, #options, #size_of_leters, #selection, #playing_board {
+    text-align: center;
+}

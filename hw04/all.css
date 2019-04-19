@@ -1,0 +1,26 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden
+}
+
+/* style links inside nav bar */
+.topnav a {
+    float: left;
+    color: red;
+    text-align: center;
+    padding: 15px 15px;
+}
+
+.topnav a:hover {
+    color: grey;
+}
+
+p {
+    border-style: double;
+    font-size: 150%;
+}

@@ -1,0 +1,12 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden
+}
+
+/* style links inside nav bar */
+.topnav a {
+    float: left;
+    color: grey;
+    text-align: center;
+    padding 15px 15px;
+}

@@ -1,0 +1,64 @@
+.design-selection{
+    position: relative;
+    bottom: 1000px;
+    float: right;
+    border-style: groove;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 40px;
+}
+
+.intro {
+    float: left;
+    display: initial;
+    margin-right: 475px;
+    margin-left: 100px;
+}
+
+.explanation {
+    float: left;
+    margin-right: 475px;
+    margin-left: 100px;
+}
+
+.participation {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.benefits {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.requirements {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.zen-resources {
+    float: right;
+    margin-right: 20%;
+    margin-top: 25px;
+}
+
+.design-archives {
+    float: left;
+    margin-left: 33%;
+    margin-top: 25px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+body {
+    background: green;
+}
+a:hover {
+    color: grey;
+}
